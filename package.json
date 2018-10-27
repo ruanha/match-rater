@@ -1,0 +1,26 @@
+{
+  "name": "match-rater",
+  "version": "1.0.0",
+  "description": "Rate players while watching football/soccer with this simple app",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanha/match-rater.git"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "player",
+    "rating"
+  ],
+  "author": "Rune A. Hartvig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanha/match-rater/issues"
+  },
+  "homepage": "https://github.com/ruanha/match-rater#readme"
+}
